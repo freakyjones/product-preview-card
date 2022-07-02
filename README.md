@@ -55,4 +55,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-i would like to give my respect to  youthube channel codding addict.His tutorial html,css crash course is fantastic..
+i would like to give my respect to  youtube channel codding addict.His tutorial on html,css crash course is fantastic..
